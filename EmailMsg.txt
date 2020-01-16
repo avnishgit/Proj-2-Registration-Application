@@ -1,0 +1,6 @@
+Hi,<br>
+Mr.${name}<br>
+Your Registration is Successful..<br>
+Your Temprory password is ${pwd}<br>
+Click on below link to unlock your account.<br>
+<a href="http://localhost:2222/unlockForm?email=${email}">Click Here</a>
